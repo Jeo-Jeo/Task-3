@@ -1,2 +1,3 @@
 # Task-3
 Linear_Regression
+This code performs a linear regression analysis on housing data. It loads the data, preprocesses it by converting categorical variables into numerical ones and handling potential missing values (although none were found in this dataset), splits the data into training and testing sets, trains a linear regression model, makes predictions on the test set, and evaluates the model's performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score. Finally, it visualizes the relationship between 'area' and 'price' with the regression line and saves the preprocessed data to CSV files.
